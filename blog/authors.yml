@@ -1,23 +1,9 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+leo:
+  name: Leo
+  title: Co-Founder/Lead Engineer @ Nerds Without Attitudes
+  url: https://github.com/Leonardo-Rocha
+  image_url: https://media.licdn.com/dms/image/v2/D4D03AQGtqJGWjmsMmg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1680896130040?e=1734566400&v=beta&t=NTE6wa6ceGn4Yu_M2BTd1LhG_wTBVNIXDLwxyC0C8OU
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: nwagamestudio
+    github: Leonardo-Rocha
