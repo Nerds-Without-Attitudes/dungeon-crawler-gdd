@@ -2,6 +2,18 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+## Tooling
+
+Make sure you've got NodeJS and yarn installed. 
+
+First, get NodeJS in [the official website](https://nodejs.org/en/download/prebuilt-installer).
+
+Second, get Yarn in [the official yarn website](https://classic.yarnpkg.com/latest.msi).
+
+Third, choose a text editor, we recommend [VSCode](https://code.visualstudio.com/).
+
+Finally, open the cloned project folder in VSCode and follow the next steps in the terminal.
+
 ### Installation
 
 ```
